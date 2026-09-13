@@ -4,36 +4,51 @@ Readme file on feedback for Instructor
 # Career Readiness & Bootcamp Reflection
 
 ## 🚀 Career Transition Readiness
-Having completed my intensive certification at **GoMyCode Learn Academy** in **UI/UX Design and Full-Stack Web Development**, I am fully equipped to transition into a professional **UI/UX & Product Design** role within the tech ecosystem. 
+Having completed my certification in **UI/UX Design** and currently enrolled in the **Full Stack & Software Development** program at **GoMyCode Learn Academy**, I am fully equipped to step into product roles that bridge user-centered design and technical execution. 
 
-My focus centers on creating intuitive, accessible, and high-converting digital products for web and mobile platforms—combining deep user-centric design principles with technical front-end execution.
+My primary focus centers on building intuitive, high-performance web and mobile products—combining modern UI/UX principles with clean, scalable code.
 
 ---
 
 ## 💡 Key Skills & Knowledge Acquired
 
-### 🎓 GoMyCode Certification & Training
-* **UI/UX Design Certification:** Applied practical design thinking methodologies, user research practices, and industry-standard interface design principles developed through GoMyCode's hands-on curriculum.
-
-### 🎯 Product & Design Strategy
-* **UX Research & Wireframing:** Executing user journeys, empathy maps, low/high-fidelity wireframes, and interactive prototypes using **Figma**.
-* **Design Systems & UI Architecture:** Building modular component libraries, responsive grids, and clean design tokens.
-* **Product Analytics:** Integrating tools like **Adobe Analytics** into product workflows to track user behavior and inform design iterations.
+### 🎓 GoMyCode Academy Training
+* **UI/UX Design Certification:** Applied practical design thinking methodologies, high-fidelity Figma prototyping, and user-centered design systems.
+* **Full Stack Software Development (Ongoing):** Mastering modern full-stack web technologies, clean code principles, software architecture, and agile practices.
 
 ### 💻 Technical & Front-End Execution
-* **Core Front-End:** Semantic HTML5, CSS3, JavaScript (ES6+), and modern styling frameworks.
-* **Component-Driven Development:** Developing interactive components and web applications using **React** and **TypeScript**.
-* **Version Control & Deployment:** Managing codebases with **Git & GitHub** and deploying live portfolios across platforms like **Vercel** and **Netlify**.
+* **Core Web Stack:** HTML5, CSS3, JavaScript (ES6+), and responsive layouts.
+* **Component-Driven Frameworks:** Developing modular interfaces using **React** and static typing with **TypeScript**.
+* **Version Control & Workflow:** Managing code repositories with **Git & GitHub** and hosting web projects using platforms like **Vercel**, **Netlify**, and **GitHub Pages**.
+
+### 🎯 Product & Design Strategy
+* **Design Systems & Architecture:** Creating reusable UI component kits, wireframing user flows, and aligning visual designs with engineering codebases.
+* **Analytics & Optimization:** Utilizing insights from tools like **Adobe Analytics** to refine workflows and user journeys.
 
 ---
 
 ## 📈 Featured Project Highlights
 
-* **FlowTrack:** Designed and built a two-role task-tracking application dashboard featuring customized workflows for admins and standard users.
-* **Enterprise Ops Dashboard:** Conducted workflow mapping and created a unified Figma design system translated into modular React components.
+* **FlowTrack:** Designed and developed a multi-role task management dashboard, implementing Figma wireframes and custom React components.
+* **Enterprise Ops Dashboard:** Conducted workflow mapping, established an enterprise design system, and built modular front-end UI components.
 
 ---
 
+## 🛠 Target Tools & Technologies
+
+| Category | Skill / Tool Stack |
+| :--- | :--- |
+| **Education & Training** | GoMyCode Learn Academy (UI/UX Certification & Software Development) |
+| **Development** | React, TypeScript, JavaScript (ES6+), HTML5/CSS3, Git/GitHub |
+| **UI/UX & Prototyping** | Figma, Wireframing, Component Libraries, Information Architecture |
+| **Deployment & Ops** | Vercel, Netlify, GitHub Pages, Adobe Analytics |
+
+---
+
+## 🎯 Next Steps & Goals
+1. Finalize the full-stack software development coursework while building real-world web applications.
+2. Bridge design handoffs by building production-ready design systems using React and TypeScript.
+3. Target software development and product design roles within growing tech ecosystems.
 ## 🛠 Target Tools & Technologies
 
 | Domain | Key Tools & Stack |
